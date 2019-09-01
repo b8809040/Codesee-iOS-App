@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Codesee
+
+  Created by Leo Tang on 2019/2/23.
+  Copyright © 2019 Leo Tang. All rights reserved.
+*/
+
+"NSCameraUsageDescription" = "Codesee需要相機權限來掃描QR code。";
+"NSPhotoLibraryAddUsageDescription" = "Codesee需要權限來使用相簿。您可以將Codesee的照片輸出到相簿。";
+"NSPhotoLibraryUsageDescription" = "Codesee需要權限來使用相簿。您可以將相簿的照片輸入到Codesee。";

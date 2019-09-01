@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  Codesee
+
+  Created by Leo Tang on 2019/2/18.
+  Copyright © 2019 Leo Tang. All rights reserved.
+*/
+
+"Mysharing" = "My sharing";
+"Sharedwithme" = "Shared with me";
+"Synchronize" = "Synchronize";
+"Startsync" = "Start sync.";
+"New" = "New";
+"OK" = "OK";
+"Delete" = "Delete";
+"NewQRcode" = "New QR code";
+"Done" = "Done";
+"Cancel" = "Cancel";
+"Alert" = "Alert";
+"Removethispicture" = "Remove this picture?";
+"Save" = "Save";
+"IncorrectQRcodeformat" = "Incorrect QR Code format!";
+"Authenticationerror" = "Authentication Error";
+"Cantbedeletedreadonlypicture" = "Can't be deleted, read only picture";
+"Nocloudfound" = "No cloud found";
+"Tapsyncitembeforesharing" = "Tap Synchronize item beforesharing";
+"Newsharing" = "New sharing";
+"Inputaccount" = "Input gmail account";
+"Removesharing" = "Remove sharing";
+"Removethisaccountfromyoursharing" = "Remove this account from your sharing?";
+"Synchronizing" = "Synchronizing...";
+"Loginbeforesync" = "Login cloud before synchronizing";
+"Error" = "Error!";
+"Note" = "Note";

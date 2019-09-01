@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Codesee
+
+  Created by Leo Tang on 2019/2/23.
+  Copyright © 2019 Leo Tang. All rights reserved.
+*/
+
+"NSCameraUsageDescription" = "Codesee needs permission to enable the camera for scanning the QR code.";
+"NSPhotoLibraryAddUsageDescription" = "Codesee needs permission to write photos. You can export Codesee's photos to photo album.";
+"NSPhotoLibraryUsageDescription" = "Codesee needs permission to read photos. You can import photos from photo album to Codesee.";

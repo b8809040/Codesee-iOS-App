@@ -1,0 +1,6 @@
+framework module CodeseeSDK {
+  umbrella header "CodeseeSDK.h"
+
+  export *
+  module * { export * }
+}

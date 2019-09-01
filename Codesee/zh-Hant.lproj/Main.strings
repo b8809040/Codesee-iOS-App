@@ -1,0 +1,37 @@
+
+/* Class = "UINavigationController"; title = "Preview"; ObjectID = "A4f-bN-sbq"; */
+"A4f-bN-sbq.title" = "Preview";
+
+/* Class = "UINavigationItem"; title = "Images"; ObjectID = "K86-3f-qPj"; */
+"K86-3f-qPj.title" = "照片清單";
+
+/* Class = "UINavigationController"; title = "Setting"; ObjectID = "Odj-Qi-JR6"; */
+"Odj-Qi-JR6.title" = "Setting";
+
+/* Class = "UITabBarItem"; title = "Capture"; ObjectID = "Y94-CR-DAU"; */
+"Y94-CR-DAU.title" = "Capture";
+
+/* Class = "UITabBarItem"; title = "Scan"; ObjectID = "eOt-Bb-FVj"; */
+"eOt-Bb-FVj.title" = "Scan";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "gBY-ms-Hy7"; */
+"gBY-ms-Hy7.title" = "設定";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "hLf-Ut-9B3"; */
+"hLf-Ut-9B3.title" = "Settings";
+
+/* Class = "UINavigationController"; title = "Scan"; ObjectID = "i0H-BD-llG"; */
+"i0H-BD-llG.title" = "Scan";
+
+/* Class = "UITabBarItem"; title = "Images"; ObjectID = "iMI-LX-GCG"; */
+"iMI-LX-GCG.title" = "Images";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "tL2-vc-mJm"; */
+"tL2-vc-mJm.normalTitle" = "略過";
+
+/* Class = "UINavigationController"; title = "Image List"; ObjectID = "xbU-dt-gy6"; */
+"xbU-dt-gy6.title" = "Image List";
+
+"9wj-2c-6FZ.text" = "歡迎使用可視貼";
+
+"MhJ-1f-As4.text" = "選擇登入您的Google帳號來備份及分享。\n或是先略過此步驟稍後再登入。\n(需搭配專用貼紙)";
